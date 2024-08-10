@@ -17,3 +17,15 @@
   color: white;
   cursor: pointer;
 }
+
+.task {
+  display: flex;
+  align-items: center;
+  width: 345px;
+  justify-content: space-between;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  height: 35px;
+  padding: 2px 5px 2px 5px;
+  margin-top: 2px;
+}
